@@ -1,13 +1,14 @@
-// This is a mock API service that simulates fetching data from a cloud service
-// In a real implementation, this would make actual API calls to your backend
-import { heroData } from "../data/heroData";
-import { servicesData } from "../data/servicesData";
-import { whyChooseUsData } from "../data/whyChooseUsData";
-import { projectsData } from "../data/projectsData";
-import { testimonialsData } from "../data/testimonialsData";
-import { toolsData } from "../data/toolsData";
-import { aboutData } from "../data/aboutData";
-import { contactData } from "../data/contactData";
+import {
+  aboutData,
+  contactData,
+  heroData,
+  projectsData,
+  servicesData,
+  testimonialsData,
+  toolsData,
+  whyChooseUsData,
+} from "../data/mock";
+
 // Simulate network delay for realistic API behavior
 const delay = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 export const api = {
