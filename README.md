@@ -4,7 +4,6 @@
 
 At **ZemTek Ventures**, we deliver tailored software solutions designed to meet your business objectives. From AI-driven systems to modern web and mobile applications, our focus is on creating **reliable, scalable, and impactful products**.
 
----
 
 ## 🚀 Our Services
 
@@ -15,7 +14,6 @@ At **ZemTek Ventures**, we deliver tailored software solutions designed to meet 
 - **Software Maintenance & Support** – Reliable updates, bug fixes, and continuous improvements.  
 - **Cloud Solutions** – Deployment, scaling, and optimization on Azure, Google Cloud, and AWS.  
 
----
 
 ## 🌟 Why Work With Us
 
@@ -24,7 +22,6 @@ At **ZemTek Ventures**, we deliver tailored software solutions designed to meet 
 - **Quality-Focused** – Delivering solutions that are efficient and dependable.  
 - **Collaborative Approach** – Treating your goals as our shared mission.  
 
----
 
 ## 🛠 Tools & Methodologies
 
@@ -32,13 +29,11 @@ At **ZemTek Ventures**, we deliver tailored software solutions designed to meet 
 - **Collaboration** – Slack & messaging platforms for smooth communication  
 - **Agile Practices** – Scrum & Kanban for efficiency and adaptability  
 
----
 
 ## 👥 About Us
 
 With **5+ years of professional experience** in software development, our team is passionate about turning complex challenges into practical, high-performing solutions. We work closely with clients to understand their unique needs and deliver results that matter.
 
----
 
 ## 🤝 Let’s Collaborate
 
@@ -46,6 +41,4 @@ We’d love to bring your ideas to life with clarity and precision.
 
 📧 **Contact us:** [hello@zemtekventures.com](mailto:hello@zemtekventures.com)  
 🌍 **Website:** [www.zemtekventures.com](https://www.zemtekventures.com)  
-💼 **Upwork:** [ZemTek Ventures](https://www.upwork.com)  
-
----
+💼 **Upwork:** [ZemTek Ventures(Agency)](https://www.upwork.com/agencies/1954513211711674793)
