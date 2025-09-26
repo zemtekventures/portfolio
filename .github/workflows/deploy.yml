@@ -1,4 +1,4 @@
-name: Deploy Zemtek Ventures Portfolio.
+name: Deploy Zemtek Ventures Portfolio
 
 on:
   push:
