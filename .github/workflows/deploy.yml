@@ -36,6 +36,7 @@ jobs:
           key: ${{ secrets.CPANEL_KEY }}
           source: "dist/*"
           target: "/home/${{ secrets.CPANEL_USER }}/public_html"
+          strip_components: 1
           debug: true
 
 
