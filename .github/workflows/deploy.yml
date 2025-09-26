@@ -1,0 +1,38 @@
+name: Deploy Vite App to cPanel
+
+on:
+  push:
+    branches:
+      - main   # change if your main branch is different
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout repo
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      # Install & Build
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build project
+        run: npm run build
+
+      # Deploy via SSH/SCP
+      - name: Deploy to cPanel
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.CPANEL_HOST }}
+          username: ${{ secrets.CPANEL_USER }}
+          key: ${{ secrets.CPANEL_KEY }}
+          source: "dist/*"
+          target: "/home/${{ secrets.CPANEL_USER }}/public_html"
