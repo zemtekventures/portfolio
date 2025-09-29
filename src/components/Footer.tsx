@@ -85,7 +85,7 @@ export const Footer = () => {
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a
-              href="https://www.upwork.com/agencies/1954513211711674793/"
+              href="https://www.upwork.com/agencies/zemtekventures"
               target="_blank"
               className="text-gray-400 hover:text-white"
             >
@@ -99,7 +99,6 @@ export const Footer = () => {
                 <path d="M17.25 3c-3.45 0-6.25 2.8-6.25 6.25 0 .9.2 1.75.55 2.5l-.95 2.1c-.65-1.15-1.15-2.45-1.45-3.9h-2.1c.3 1.75.95 3.35 1.85 4.75l-2.55 5.55h2.35l1.75-3.95c.9.95 2.05 1.7 3.35 2.05v1.9h2.1v-1.75c3.05-.35 5.4-2.9 5.4-6.15 0-3.45-2.8-6.25-6.25-6.25zm0 10.5c-2.4 0-4.25-1.9-4.25-4.25s1.85-4.25 4.25-4.25 4.25 1.9 4.25 4.25-1.85 4.25-4.25 4.25z" />
               </svg>
             </a>
-            
             <a
               href="https://x.com/zemtekventures"
               target="_blank"
